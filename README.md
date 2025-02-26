@@ -1,14 +1,24 @@
-# EZElectronics
+# EZElectronics – Enterprise Workflow Simulation  
 
-EZElectronics (read EaSy Electronics) is a software application designed to help managers of electronics stores to manage their products and offer them to customers through a dedicated website. Managers can assess the available products, record new ones, and confirm purchases. Customers can see available products, add them to a cart to buy them, see the history of their past purchases, leave reviews of the products they have purchased, and see the reviews of the available products. Admins can assess the status of the system and manage data through delete operations.
+EZElectronics (short for EaSy Electronics) is a software platform designed to simulate the workflow of an electronics store, covering everything from inventory management to customer interactions and administrative oversight.  
 
-# Second Assignment
+## About the Project  
 
-The goal of the second assignment is as follows:
+This system provides a seamless experience for different roles:  
 
-1. Implement the server of the application, following the requirements defined in ![OfficialRequirementsDocumentV2.md](./OfficialRequirementsDocumentV2.md) and the specifications defined in ![API.md](./API.md). A correct implementation of the server will ensure that the client works as intended with all of its features.
-2. Test the implementation of the server. More details on how to perform tests will be provided in the upcoming weeks. The repository contains examples of how to perform unit tests, examples on other testing methodologies will be explained later.
+- **Managers**: Oversee inventory, add new products, and confirm purchases.  
+- **Customers**: Browse and purchase products, track past orders, and leave reviews.  
+- **Admins**: Maintain system integrity, monitor platform activity, and manage data.  
 
-## Delivery
+## Current Focus  
 
-The deadline for delivering the second assignment is 16/06/2024, 23:59, Rome timezone. We remind you that delivery must be done by making a merge request from one branch to the **main** branch of your group's project (e.g. https://git-softeng.polito.it/se-2023-24/group-xxx-yy/ezelectronics, with xxx being either _ita_ or _eng_ and yy being your group number).
+The next phase of development involves implementing the backend, ensuring it aligns with the defined requirements and API specifications:  
+
+- **Backend Development**: Implement the server following the guidelines in [OfficialRequirementsDocumentV2.md](./OfficialRequirementsDocumentV2.md) and [API.md](./API.md).  
+- **Testing & Optimization**: Validate the system with rigorous testing to guarantee smooth functionality and reliability.  
+
+## Collaboration & Deployment  
+
+Development is ongoing, and updates will be merged into the **main** branch of the project repository. For contributions or discussions, check out the repository at [EZElectronics Repository](https://git-softeng.polito.it/se-2023-24/group-xxx-yy/ezelectronics), where `xxx` represents either _ita_ or _eng_, and `yy` denotes the group number.  
+
+Stay tuned for further enhancements and refinements!  
